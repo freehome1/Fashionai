@@ -1,0 +1,9 @@
+python del_two_inc_dense.py
+python fuse_inc_dense.py
+python diff_incres.py
+python del_two_incres.py
+python fuse_inc_dense_incres.py
+python diff_nas.py
+python del_two_nasnet.py
+python fuse_inc_dense_incres_nas.py
+python hebing.py
